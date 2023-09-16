@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:learning_flutter/constants/numeric_constants.dart';
+import 'package:learning_flutter/utils/constants/numeric_constants.dart';
 
 class ResponsiveLayout extends StatelessWidget {
   final Widget mobileView;

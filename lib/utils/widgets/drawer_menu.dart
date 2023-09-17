@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:learning_flutter/utils/constants/assets.dart';
 import 'package:learning_flutter/utils/constants/theme.dart';
 
 class DrawerMenu extends StatelessWidget {
@@ -13,16 +14,16 @@ class DrawerMenu extends StatelessWidget {
           DrawerHeader(
             child: IconButton(
               onPressed: () {},
-              icon: const Icon(Icons.chat_bubble),
+              icon: const Image(image: AssetImage(flowerLogo)),
             ),
           ),
           const ListTile(
-            leading: Icon(Icons.home),
+            leading: Icon(Icons.dashboard),
             title: Text("D A S H B O A R D"),
           ),
           const ListTile(
-            leading: Icon(Icons.add),
-            title: Text("N E W   C H A T"),
+            leading: Icon(Icons.favorite),
+            title: Text("N E W   F L O W E R"),
           ),
           const ListTile(
             leading: Icon(Icons.settings),

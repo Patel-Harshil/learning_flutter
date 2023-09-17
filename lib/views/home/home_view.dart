@@ -11,6 +11,7 @@ class HomeView extends StatelessWidget {
   Widget build(BuildContext context) {
     return const ResponsiveLayout(
       mobileView: HomeViewMobile(),
+      // mobileView: VideoPlayerScreen(),
       tabletView: HomeViewTablet(),
       desktopView: HomeViewDesktop(),
     );

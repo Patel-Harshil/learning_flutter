@@ -1,7 +1,7 @@
 // ignore_for_file: constant_identifier_names
 
 // home_view
-const TITLE = "Hiihi";
+const TITLE = "My Garden";
 
 // fonts
 const OPEN_SANS = "Open Sans";

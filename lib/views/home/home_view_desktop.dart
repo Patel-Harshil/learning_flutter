@@ -11,6 +11,7 @@ class HomeViewDesktop extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: bodyBackgroundColor,
+      // appBar: myAppBar,
       body: Row(
         children: [
           // left drawer

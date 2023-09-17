@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747456280647",
+    "project_id": "flower-garden-f5a13",
+    "storage_bucket": "flower-garden-f5a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747456280647:android:205f5711fc7493ad401962",
+        "android_client_info": {
+          "package_name": "com.example.learning_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiqoPDFCCBNnd3W1PGmfnZaYNwD9_tpdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
